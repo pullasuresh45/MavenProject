@@ -6,3 +6,4 @@ this is for git hooks  of mahalogin
 3rd commit
 WebHOOK Testings...
 UP/Down Stream Jobs Testing
+up/down Build Triggers - Projects to watch
